@@ -7,3 +7,5 @@ const footer = createDomText("p", "this is home page footer text")
 const app = document.querySelector("#app")
 app.appendChild(title)
 app.appendChild(description)
+
+console.log('123')
